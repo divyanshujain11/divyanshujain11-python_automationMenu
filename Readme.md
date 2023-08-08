@@ -26,7 +26,7 @@ Dive into an array of programs that are poised to change the way you interact wi
 7.Capture Moments with CVZone Brilliance: Unleash your inner photographer by capturing captivating images with the prowess of the CVZone module.
 [Git hub repo for click picture by cvzone](https://github.com/divyanshujain11/python_OpenCV_editing_of_photo)
 
-8.Empowering Deaf Communities: Explore a program thoughtfully crafted by our team to extend a helping hand to the deaf community.
+8.Empowering Dumb Communities: Explore a program thoughtfully crafted by our team to extend a helping hand to the dumb community.
 [Git hub repo for tkinter menu-driven program](https://github.com/divyanshujain11/ML_Dumb_People_Help.git)
 
 9.Elevate Cloud Computing with Boto3: Take charge of cloud infrastructure as you effortlessly launch EC2 instances using the Boto3 library.
